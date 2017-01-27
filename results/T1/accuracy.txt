@@ -1,0 +1,40 @@
+FILENAME                                                    RECALL      PRECISION   F1   
+==========================================================================================
+
+Alec_SamsungNote3_Good_Lighting_Good_Background_10.png      0.827        0.711        0.765
+
+Alec_SamsungNote3_Good_Lighting_Good_Background_7.png       0.823        0.741        0.780
+
+Alec_MotoXPlay_Good_Lighting_Good_Background_1.png          0.863        0.632        0.730
+
+Alec_SamsungNote3_Good_Lighting_Good_Background_8.png       0.855        0.686        0.762
+
+Alec_MotoXPlay_Good_Lighting_Good_Background_2.png          0.876        0.748        0.807
+
+Alec_MotoXPlay_Good_Lighting_Good_Background_5.png          0.864        0.770        0.815
+
+Alec_MotoXPlay_Good_Lighting_Good_Background_4.png          0.815        0.683        0.743
+
+Alec_SamsungNote3_Good_Lighting_Good_Background_9.png       0.859        0.708        0.776
+
+Alec_MotoXPlay_Good_Lighting_Good_Background_3.png          0.855        0.650        0.739
+
+Alec_SamsungNote3_Good_Lighting_Good_Background_6.png       0.865        0.692        0.769
+
+RECALL
+High: 0.876
+Low: 0.815
+Mean: 0.850
+Stdev: 0.021
+
+PRECISION
+High: 0.770
+Low: 0.632
+Mean: 0.702
+Stdev: 0.043
+
+F1 SCORES
+High: 0.815
+Low: 0.730
+Mean: 0.768
+Stdev: 0.028

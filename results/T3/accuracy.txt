@@ -1,0 +1,46 @@
+FILENAME                                                    RECALL      PRECISION   F1   
+==========================================================================================
+
+Alec-MotoXPlay-GoodLighting-Tpose_2_2.png                   0.978        0.759        0.855
+
+Alec-iPhone6-GoodLighting-Tpose_1.png                       0.852        0.759        0.802
+
+Oliver-Nexus4-GoodLighting-Tpose_8.png                      0.888        0.921        0.904
+
+Oliver-SamsungNote3-GoodLighting-Tpose_9.png                0.848        0.914        0.880
+
+Oliver-iPhone6-GoodLighting-Tpose_2_6.png                   0.842        0.895        0.867
+
+Oliver-iPhone6-GoodLighting-Overhead_5.png                  0.887        0.935        0.911
+
+Robyn-iPhone6-GoodLighting-JumpingJack_10.png               0.864        0.856        0.860
+
+Alec-SamsungNote3-GoodLighting-Tpose_4.png                  0.818        0.854        0.836
+
+Alec-MotoXPlay-GoodLighting-Tpose_3.png                     0.960        0.829        0.890
+
+Robyn-Nexus4-GoodLighting-Tpose_13.png                      0.834        0.873        0.853
+
+Robyn-Nexus4-GoodLighting-Tpose_2_12.png                    0.806        0.900        0.851
+
+Oliver-iPhone6-GoodLighting-Tpose_7.png                     0.896        0.896        0.896
+
+Robyn-iPhone6-GoodLighting-Tpose_11.png                     0.921        0.867        0.893
+
+RECALL
+High: 0.978
+Low: 0.806
+Mean: 0.876
+Stdev: 0.052
+
+PRECISION
+High: 0.935
+Low: 0.759
+Mean: 0.866
+Stdev: 0.056
+
+F1 SCORES
+High: 0.911
+Low: 0.802
+Mean: 0.869
+Stdev: 0.031

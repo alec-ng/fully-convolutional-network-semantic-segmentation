@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+/voc-fcn8s/src/fcn8s-heavy-pascal.caffemodel
+/voc-fcn8s/images
+/voc-fcn8s/scripts/*.pyc
